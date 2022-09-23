@@ -1,5 +1,7 @@
 ---
 title: Project
+hide:
+  - feedback
 ___
 # Welcome to ParchmentMC documentation
 
