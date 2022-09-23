@@ -1,5 +1,6 @@
 Title: Project
 Hide:  feedback
+       footer
 
 # Welcome to ParchmentMC documentation
 

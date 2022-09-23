@@ -15,7 +15,9 @@ theme:
     - navigation.top
 
 #Parchment MC owns the copyright on the outputted page, source is freely available.
-copyright: Copyright &copy; 2021-2022 ParchmentMC
+copyright: >
+  Copyright &copy; 2021-2022 ParchmentMC –
+  <a href="#__consent">Change cookie settings</a>
 
 #For now: No generator marker, not sure if we will stay with this.
 extra:
@@ -52,3 +54,6 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+
+plugins:
+  - search

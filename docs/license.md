@@ -1,4 +1,5 @@
 Title: Licenses
+Hide:  footer
 
 # Parchment License
 The mappings that parchment distributes, and their source, are licensed under CC0.
