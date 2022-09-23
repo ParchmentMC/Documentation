@@ -1,4 +1,7 @@
 site_name: Parchment
+site_url: https://documentation.parchmentmc.org
+repo_name: ParchmentMC-Documentation
+repo_url: https://github.com/ParchmentMC/Documentation
 theme:
   name: material
   features:
@@ -24,6 +27,9 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+  analytics:
+    property: G-QH18YNN9CM
+    provider: google
 
 #Markdown extensions
 markdown_extensions:

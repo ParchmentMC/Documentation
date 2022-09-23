@@ -1,3 +1,6 @@
+---
+title: Project
+___
 # Welcome to ParchmentMC documentation
 
 Parchment is an open community-sourced modloader-neutral set of mappings of parameter names and javadocs, to augment the official names released by Mojang.
