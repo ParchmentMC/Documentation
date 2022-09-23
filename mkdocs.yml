@@ -1,3 +1,34 @@
 site_name: Parchment
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.prune
+    - toc.integrate
+    - navigation.top
+
+#Parchment MC owns the copyright on the outputted page, source is freely available.
+copyright: Copyright &copy; 2021-2022 ParchmentMC
+
+#For now: No generator marker, not sure if we will stay with this.
+extra:
+  generator: false
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+
+#Markdown extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
